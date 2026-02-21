@@ -1,4 +1,4 @@
-# THChat
+# TC Chat
 
 A fast, modern IRC web client built with Rust and SolidJS.
 
